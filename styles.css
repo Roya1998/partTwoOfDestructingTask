@@ -1,0 +1,14 @@
+.mainContainer{
+    height:500px;
+    width:50%;
+    border:2px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+}
+
+.abc{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+}
